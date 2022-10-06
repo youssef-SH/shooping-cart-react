@@ -1,0 +1,42 @@
+[
+    {
+        "id": "id1",
+        "title": "iphone 12",
+        "imageUrl" : "/images/iphone12.jpg",
+        "desc": "this is iphone 12",
+        "price" : 600
+    },
+
+    {
+        "id": "id2",
+        "title": "iphone 12",
+        "imageUrl" : "/images/iphone12.jpg",
+        "desc": "this is iphone 12",
+        "price" : 600
+    },
+
+    {
+        "id": "id3",
+        "title": "iphone 12",
+        "imageUrl" : "/images/iphone12.jpg",
+        "desc": "this is iphone 12",
+        "price" : 600
+    },
+
+    {
+        "id": "id4",
+        "title": "iphone 12",
+        "imageUrl" : "/images/iphone12.jpg",
+        "desc": "this is iphone 12",
+        "price" : 600
+    },
+
+    {
+        "id": "id5",
+        "title": "iphone 12",
+        "imageUrl" : "/images/iphone12.jpg",
+        "desc": "this is iphone 12",
+        "price" : 600
+    }
+
+]
