@@ -4,6 +4,7 @@
         "title": "iphone 12",
         "imageUrl" :"/images/iphone 12.jpg",
         "desc": "this is iphone 12",
+        "company": "iphone",
         "price" : 600
     },
 
@@ -12,6 +13,7 @@
         "title": "iphone 13",
         "imageUrl" : "/images/iphone 13.jpg",
         "desc": "this is iphone 12",
+        "company": "iphone",
         "price" : 600
     },
 
@@ -20,6 +22,7 @@
         "title": "iphone 13 pro",
         "imageUrl" : "/images/iphone-13 1.jpg",
         "desc": "this is iphone 12",
+        "company": "iphone",
         "price" : 600
     }
 
