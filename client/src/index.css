@@ -24,3 +24,18 @@ main {
   grid-area: main;
 }
 
+.wrapper {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper .productsE1 {
+  width: 68%;
+}
+
+.wrapper .filterE1 {
+  width: 30%;
+  
+}
+
