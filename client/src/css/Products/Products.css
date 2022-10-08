@@ -3,11 +3,12 @@
   justify-content: space-between;
 }
 .products-wrapper .product-item {
-  width: 20%;
+  width: 50%;
+  margin: 20px;
 }
 .products-wrapper .product-item img {
   width: 100%;
-  height: 180px;
+  height: 155px;
   padding: 6px;
   border: 1px solid #c0c0c0;
 }
